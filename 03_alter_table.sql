@@ -1,0 +1,2 @@
+ALTER TABLE clienti
+ADD telefon VARCHAR2(20);@03
