@@ -1,0 +1,5 @@
+CREATE TABLE clienti (
+  id NUMBER PRIMARY KEY,
+  nume VARCHAR2(100),
+  email VARCHAR2(100)
+);
