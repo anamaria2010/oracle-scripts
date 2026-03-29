@@ -1,2 +1,2 @@
 ALTER TABLE clienti
-ADD telefon VARCHAR2(20);@03
+ADD telefon VARCHAR2(20);
